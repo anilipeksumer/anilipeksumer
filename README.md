@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hello, I'm Anıl
+
+### About Me
+
+I'm a passionate computer engineer with a diverse skill set and a relentless curiosity for technology. My journey in the world of coding has led me to explore multiple programming languages and frameworks, enabling me to create innovative and efficient solutions.
+
+### What I Do
+
+- Spring Boot Development: I enjoy building robust and scalable applications using the Spring Boot framework, bringing ideas to life with Java.
+- C# .NET Development: Exploring the possibilities of C# and .NET, I thrive in developing versatile software that meets modern industry standards.
+- Python Django: Leveraging the power of Python and Django, I craft dynamic web applications with a focus on clean code and user experience.
+- CTO at Oblivus: As the Chief Technology Officer at Oblivus,, I lead the technological vision, driving innovation and growth. I specialize in crafting efficient back-end systems and REST APIs, contributing to seamless user experiences.
+- JavaScript: My fascination with JavaScript and its libraries empowers me to create interactive and user-centric web interfaces.
+
+### Connect with Me
+
+Let's collaborate, share ideas, and embark on exciting coding adventures together. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/an%C4%B1l-ipeks%C3%BCmer/)  I'm always eager to connect and learn from fellow developers.
+
+### Keep Innovating, Keep Coding!
+
 
 <!--
 **anilipeksumer/anilipeksumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
