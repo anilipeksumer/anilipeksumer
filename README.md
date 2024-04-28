@@ -9,8 +9,6 @@ I'm a passionate computer engineer with a diverse skill set and a relentless cur
 - Spring Boot Development: I enjoy building robust and scalable applications using the Spring Boot framework, bringing ideas to life with Java.
 - C# .NET Development: Exploring the possibilities of C# and .NET, I thrive in developing versatile software that meets modern industry standards.
 - Python Django: Leveraging the power of Python and Django, I craft dynamic web applications with a focus on user experience.
-- CTO at Oblivus: As the Chief Technology Officer at Oblivus, I lead the technological vision, driving innovation and growth. I specialize in crafting efficient back-end systems and REST APIs, contributing to seamless user experiences.
-- JavaScript: My fascination with JavaScript and its libraries empowers me to create interactive and user-centric web interfaces.
 
 ### Connect with Me
 
