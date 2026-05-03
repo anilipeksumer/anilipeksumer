@@ -26,11 +26,11 @@ Computer Engineering graduate with over 3 years of professional experience in bu
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilipeksumer&show_icons=true&theme=transparent&hide_border=true&title_color=0089D6&icon_color=0089D6&text_color=555" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilipeksumer&layout=compact&theme=transparent&hide_border=true&title_color=0089D6&text_color=555" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anilipeksumer&show_icons=true&theme=dark&hide_border=true&title_color=0089D6&icon_color=0089D6&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilipeksumer&layout=compact&theme=dark&hide_border=true&title_color=0089D6&text_color=ffffff" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-*   **LinkedIn:** [linkedin.com/in/anıl-ipeksümer](https://www.linkedin.com/in/anıl-ipeksümer/)
+*   **LinkedIn:** [linkedin.com/in/anilipeksumer](https://www.linkedin.com/in/anilipeksumer/)
