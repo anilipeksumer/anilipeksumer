@@ -25,4 +25,4 @@ Software Engineer focused on high-performance backend systems and scalable archi
 ---
 
 ### 📫 Connect with me
-*   **LinkedIn:** [linkedin.com/in/anilipeksumer](https://www.linkedin.com/in/anilipeksumer)
+*   **LinkedIn:** [linkedin.com/in/anil-ipeksumer]([https://www.linkedin.com/in/anilipeksumer](https://www.linkedin.com/in/an%C4%B1l-ipeks%C3%BCmer/))
