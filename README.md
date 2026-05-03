@@ -1,7 +1,7 @@
 # Anıl İpeksümer
 
 ### Computer Engineer | Backend Developer (3+ Years Experience)
-Computer Engineering graduate with over 3 years of professional experience in building high-performance backend systems and scalable architectures. Expert in the **.NET ecosystem**, specializing in **Clean Architecture** and distributed systems.
+Computer Engineering graduate with over 3 years of professional experience building high-performance backend systems and scalable architectures. Expert in the **.NET ecosystem**, specializing in **Clean Architecture** and distributed systems.
 
 ---
 
