@@ -1,7 +1,7 @@
 # Anıl İpeksümer
 
-### Backend Engineer
-Software Engineer focused on high-performance backend systems and scalable architectures. Expert in the **.NET ecosystem**, specializing in **Clean Architecture** and distributed systems.
+### Computer Engineer | Backend Developer (3+ Years Experience)
+Computer Engineering graduate with over 3 years of professional experience in building high-performance backend systems and scalable architectures. Expert in the **.NET ecosystem**, specializing in **Clean Architecture** and distributed systems.
 
 ---
 
@@ -24,5 +24,13 @@ Software Engineer focused on high-performance backend systems and scalable archi
 
 ---
 
+### 📊 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilipeksumer&show_icons=true&theme=transparent&hide_border=true&title_color=0089D6&icon_color=0089D6&text_color=555" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilipeksumer&layout=compact&theme=transparent&hide_border=true&title_color=0089D6&text_color=555" />
+</p>
+
+---
+
 ### 📫 Connect with me
-*   **LinkedIn:** [linkedin.com/in/anil-ipeksumer]([https://www.linkedin.com/in/anilipeksumer](https://www.linkedin.com/in/an%C4%B1l-ipeks%C3%BCmer/))
+*   **LinkedIn:** [linkedin.com/in/anıl-ipeksümer](https://www.linkedin.com/in/anıl-ipeksümer/)
