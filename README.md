@@ -6,7 +6,6 @@ Computer Engineering graduate with over 4 years of professional experience. Expe
 
 <p>
   <a href="https://www.linkedin.com/in/anilipeksumer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anilipeksumer-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Based_in-Türkiye-E30A17?style=flat">
 </p>
 
 ---
