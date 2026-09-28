@@ -34,7 +34,7 @@ Computer Engineering graduate with over 4 years of professional experience. Expe
 
 ---
 
-### ✨ Featured Project
+### ✨ Featured Projects
 
 <table>
 <tr>
@@ -53,8 +53,28 @@ An interactive notch (music, file shelf, meetings), a menu bar panel with system
 
 </td>
 </tr>
+<tr>
+<td width="120" align="center" valign="top">
+  <a href="https://github.com/anilipeksumer/Spool"><img src="https://raw.githubusercontent.com/anilipeksumer/Spool/main/docs/images/icon.png" width="96" alt="Spool"></a>
+</td>
+<td valign="top">
+
+**[Spool](https://github.com/anilipeksumer/Spool)** — a native Mac client for Redis and RabbitMQ. *Open source.*
+
+Browse Redis keys and edit every type; watch RabbitMQ queues live, peek at messages, see why they were dead-lettered and move them back — with its own pipelined Redis (RESP) client, tested against real servers.
+
+<sub>Swift 6 · SwiftUI · Swift Charts · Network.framework · Redis · RabbitMQ</sub>
+
+<a href="https://github.com/anilipeksumer/Spool/releases/latest"><img alt="Download Spool" src="https://img.shields.io/badge/Download_for_macOS-000000?style=flat&logo=apple&logoColor=white"></a>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/anilipeksumer/Augment_MacOS"><img src="https://raw.githubusercontent.com/anilipeksumer/Augment_MacOS/main/docs/images/notch.gif" width="440" alt="Augment's notch"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anilipeksumer/Spool"><img src="https://raw.githubusercontent.com/anilipeksumer/Spool/main/docs/images/queues.png" width="640" alt="Spool showing a dead-letter queue"></a>
 </p>
