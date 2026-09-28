@@ -55,17 +55,15 @@ An interactive notch (music, file shelf, meetings), a menu bar panel with system
 </tr>
 <tr>
 <td width="120" align="center" valign="top">
-  <a href="https://github.com/anilipeksumer/Spool"><img src="https://raw.githubusercontent.com/anilipeksumer/Spool/main/docs/images/icon.png" width="96" alt="Spool"></a>
+  <img src="assets/spool-icon.png" width="96" alt="Spool">
 </td>
 <td valign="top">
 
-**[Spool](https://github.com/anilipeksumer/Spool)** — a native Mac client for Redis and RabbitMQ. *Open source.*
+**Spool** — a native Mac client for Redis and RabbitMQ. *Source private for now.*
 
 Browse Redis keys and edit every type; watch RabbitMQ queues live, peek at messages, see why they were dead-lettered and move them back — with its own pipelined Redis (RESP) client, tested against real servers.
 
 <sub>Swift 6 · SwiftUI · Swift Charts · Network.framework · Redis · RabbitMQ</sub>
-
-<a href="https://github.com/anilipeksumer/Spool/releases/latest"><img alt="Download Spool" src="https://img.shields.io/badge/Download_for_macOS-000000?style=flat&logo=apple&logoColor=white"></a>
 
 </td>
 </tr>
@@ -77,7 +75,7 @@ Browse Redis keys and edit every type; watch RabbitMQ queues live, peek at messa
 
 **Foreman** — monitor and control field stations from one place. *Source private for now.*
 
-Live station state over OPC UA and REST pushed to the browser with SignalR; permission-based commands with approvals, a simulate mode, timed commands that revert on their own and bulk commands; state history, reports, alarm rules (in-app, email, Teams), kiosk TV displays and an external API.
+Live station state over OPC UA and REST pushed to the browser with SignalR; permission-based commands with approvals, a simulate mode, timed commands that revert on their own and bulk commands; state history, reports, alarm rules and an external API.
 
 <sub>.NET 10 · ASP.NET Core · SignalR · EF Core · OPC UA · Redis · React 18 · Vite</sub>
 
@@ -90,5 +88,5 @@ Live station state over OPC UA and REST pushed to the browser with SignalR; perm
 </p>
 
 <p align="center">
-  <a href="https://github.com/anilipeksumer/Spool"><img src="https://raw.githubusercontent.com/anilipeksumer/Spool/main/docs/images/queues.png" width="640" alt="Spool showing a dead-letter queue"></a>
+  <img src="assets/spool-queues.png" width="640" alt="Spool showing a dead-letter queue">
 </p>
