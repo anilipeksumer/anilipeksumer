@@ -1,8 +1,8 @@
 # Hi, I'm Anıl 👋
 
-**Computer Engineer · Backend Developer (3+ years)** — building high-performance backend systems and scalable architectures, and native apps for macOS on the side.
+**Computer Engineer · Backend Developer** — building high-performance backend systems and scalable architectures, and native apps for macOS on the side.
 
-Computer Engineering graduate with over 3 years of professional experience. Expert in the **.NET ecosystem**, specializing in **Clean Architecture** and distributed systems.
+Computer Engineering graduate with over 4 years of professional experience. Expert in the **.NET ecosystem**, specializing in **Clean Architecture** and distributed systems.
 
 <p>
   <a href="https://www.linkedin.com/in/anilipeksumer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anilipeksumer-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
