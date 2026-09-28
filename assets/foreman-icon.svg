@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<title id="title">Foreman</title>
+<rect x="2" y="2" width="60" height="60" rx="14" fill="#142638" stroke="#40596E" stroke-width="2"/>
+<path d="M22 47V17H42M22 31H36" fill="none" stroke="#F5A524" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="42" cy="17" r="5.5" fill="#142638" stroke="#F5A524" stroke-width="4"/>
+<circle cx="36" cy="31" r="5.5" fill="#142638" stroke="#F5A524" stroke-width="4"/>
+<circle cx="22" cy="47" r="5.5" fill="#F5A524"/>
+</svg>

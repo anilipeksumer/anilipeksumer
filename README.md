@@ -69,6 +69,20 @@ Browse Redis keys and edit every type; watch RabbitMQ queues live, peek at messa
 
 </td>
 </tr>
+<tr>
+<td width="120" align="center" valign="top">
+  <img src="assets/foreman-icon.svg" width="96" alt="Foreman">
+</td>
+<td valign="top">
+
+**Foreman** — monitor and control field stations from one place. *Source private for now.*
+
+Live station state over OPC UA and REST pushed to the browser with SignalR; permission-based commands with approvals, a simulate mode, timed commands that revert on their own and bulk commands; state history, reports, alarm rules (in-app, email, Teams), kiosk TV displays and an external API.
+
+<sub>.NET 10 · ASP.NET Core · SignalR · EF Core · OPC UA · Redis · React 18 · Vite</sub>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
