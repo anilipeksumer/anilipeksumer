@@ -8,6 +8,8 @@ Computer Engineering graduate with over 4 years of professional experience. Expe
   <a href="https://www.linkedin.com/in/anilipeksumer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anilipeksumer-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
+**My macOS apps:** [Download Augment](https://github.com/anilipeksumer/Augment_MacOS/releases/latest) · [Download Spool](https://github.com/anilipeksumer/Spool/releases/latest)
+
 ---
 
 ### 🛠 Tech Stack
@@ -45,25 +47,35 @@ Computer Engineering graduate with over 4 years of professional experience. Expe
 
 **[Augment](https://github.com/anilipeksumer/Augment_MacOS)** — a minimalist macOS utility designed to elevate your desktop experience with a native aesthetic.
 
-An interactive notch (music, file shelf, meetings), a menu bar panel with system stats and per-app volume, Dock previews, an ⌥Tab window switcher, external-monitor brightness and Finder tools — in Liquid Glass.
+An interactive notch (music, file shelf, meetings), system stats and per-app volume, Dock previews, an ⌥Tab window switcher, external-monitor brightness and Finder tools — in Liquid Glass. **⌘D shows the desktop** by minimizing open windows, and restores them when the desktop is clear.
 
 <sub>Swift · SwiftUI · AppKit · Core Audio · Accessibility · Finder Sync</sub>
 
-<a href="https://github.com/anilipeksumer/Augment_MacOS/releases/latest"><img alt="Download Augment" src="https://img.shields.io/badge/Download_for_macOS-000000?style=flat&logo=apple&logoColor=white"></a>
+<a href="https://github.com/anilipeksumer/Augment_MacOS/releases/latest"><img alt="Download Augment for macOS" src="https://img.shields.io/badge/Download_for_macOS-000000?style=flat&logo=apple&logoColor=white"></a>
+
+[DMG · v1.0.8](https://github.com/anilipeksumer/Augment_MacOS/releases/download/v1.0.8/Augment-1.0.8.dmg) · [Release notes](https://github.com/anilipeksumer/Augment_MacOS/releases/latest) · [Repository](https://github.com/anilipeksumer/Augment_MacOS)
+
+<sub>macOS 13+ · Apple Silicon & Intel · Developer ID signed · Notarized by Apple</sub>
 
 </td>
 </tr>
 <tr>
 <td width="120" align="center" valign="top">
-  <img src="assets/spool-icon.png" width="96" alt="Spool">
+  <a href="https://github.com/anilipeksumer/Spool"><img src="https://raw.githubusercontent.com/anilipeksumer/Spool/main/docs/images/icon.png" width="96" alt="Spool"></a>
 </td>
 <td valign="top">
 
-**Spool** — a native Mac client for Redis and RabbitMQ. *Source private for now.*
+**[Spool](https://github.com/anilipeksumer/Spool)** — a native Mac client for Redis and RabbitMQ. **Open source under the MIT license.**
 
 Browse Redis keys and edit every type; watch RabbitMQ queues live, peek at messages, see why they were dead-lettered and move them back — with its own pipelined Redis (RESP) client, tested against real servers.
 
 <sub>Swift 6 · SwiftUI · Swift Charts · Network.framework · Redis · RabbitMQ</sub>
+
+<a href="https://github.com/anilipeksumer/Spool/releases/latest"><img alt="Download Spool for macOS" src="https://img.shields.io/badge/Download_for_macOS-000000?style=flat&logo=apple&logoColor=white"></a>
+
+[DMG · v1.0.0](https://github.com/anilipeksumer/Spool/releases/download/v1.0.0/Spool-1.0.0.dmg) · [Release notes](https://github.com/anilipeksumer/Spool/releases/latest) · [Source code](https://github.com/anilipeksumer/Spool)
+
+<sub>macOS 26+ · Developer ID signed · Notarized by Apple · MIT</sub>
 
 </td>
 </tr>
@@ -88,5 +100,5 @@ Live station state over OPC UA and REST pushed to the browser with SignalR; perm
 </p>
 
 <p align="center">
-  <img src="assets/spool-queues.png" width="640" alt="Spool showing a dead-letter queue">
+  <a href="https://github.com/anilipeksumer/Spool"><img src="https://raw.githubusercontent.com/anilipeksumer/Spool/main/docs/images/queues.png" width="640" alt="Spool showing a dead-letter queue"></a>
 </p>
