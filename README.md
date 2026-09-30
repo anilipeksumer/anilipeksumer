@@ -8,8 +8,6 @@ Computer Engineering graduate with over 4 years of professional experience. Expe
   <a href="https://www.linkedin.com/in/anilipeksumer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anilipeksumer-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
-**My macOS apps:** [Download Augment](https://github.com/anilipeksumer/Augment_MacOS/releases/latest) · [Download Spool](https://github.com/anilipeksumer/Spool/releases/latest)
-
 ---
 
 ### 🛠 Tech Stack
